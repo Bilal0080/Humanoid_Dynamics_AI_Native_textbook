@@ -1,0 +1,7 @@
+{
+  "name": "Humanoid Dynamics: AI-Native Textbook",
+  "description": "An advanced, interactive textbook on physical humanoid robotics powered by Gemini, featuring real-time AI explanations, mathematical derivations, and kinematic visualizations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
